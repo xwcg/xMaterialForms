@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xMaterialForms", "xMaterialForms.csproj", "{6847D5D5-AC91-4223-A24D-D31E2EC89BFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialTestApp", "..\MaterialTestApp\MaterialTestApp.csproj", "{BBAADFCB-CE2D-4E73-BEB5-A8E67875D938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xMaterialIcons", "..\xMaterialIcons\xMaterialIcons.csproj", "{4D38484C-46E7-4CB8-A05E-9A321088E6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xMaterialControls", "xMaterialControls\xMaterialControls.csproj", "{716C6174-1B8D-4563-8FF2-EB5A1C878E97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,18 @@ Global
 		{6847D5D5-AC91-4223-A24D-D31E2EC89BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6847D5D5-AC91-4223-A24D-D31E2EC89BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6847D5D5-AC91-4223-A24D-D31E2EC89BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAADFCB-CE2D-4E73-BEB5-A8E67875D938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAADFCB-CE2D-4E73-BEB5-A8E67875D938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAADFCB-CE2D-4E73-BEB5-A8E67875D938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAADFCB-CE2D-4E73-BEB5-A8E67875D938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D38484C-46E7-4CB8-A05E-9A321088E6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D38484C-46E7-4CB8-A05E-9A321088E6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D38484C-46E7-4CB8-A05E-9A321088E6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D38484C-46E7-4CB8-A05E-9A321088E6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716C6174-1B8D-4563-8FF2-EB5A1C878E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716C6174-1B8D-4563-8FF2-EB5A1C878E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716C6174-1B8D-4563-8FF2-EB5A1C878E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716C6174-1B8D-4563-8FF2-EB5A1C878E97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
